@@ -22,3 +22,16 @@ The project calculates **career points**, identifies **top-performing drivers**,
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📊 Sample Output
+- Console output showing top drivers by career points
+- Bar chart visualization of top 5 drivers
+
+---
+
+## ▶️ How to Run
+```bash
+pip install pandas matplotlib
+python analyzer.py
